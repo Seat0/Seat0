@@ -15,8 +15,8 @@ I have a Bachelor's degree in Economics and minor in Data Science from the Unive
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/cchen607/HonorsCapstone">
-    <img src="images/honors-logo.jpg" alt="Logo" width="150" height="150">
+  <a href="https://github.com/Seat0/Valorant-Regression-Model">
+    <img src="https://d3dwep9z8m8y9r.cloudfront.net/tournaments/2023/07/tournaments-413/logo/40174/conversions/VCT_champ_230x230(icon)-webp.webp">
   </a>
 
 <h3 align="center">Valorant Championship Prediction Model</h3>
