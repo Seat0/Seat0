@@ -5,7 +5,7 @@
 I have a Bachelor's degree in Economics and minor in Data Science from the University of California, Riverside. 
   - I’m currently looking for a job and working on individual research ventures.
   - Languages: **R, STATA, and Python**.
-  - Skills: Data Manipulation and Visualization, Regression Analysis, Using LLM's for Sentiment Analysis and Parsing. 
+  - **Skills**: Data Manipulation and Visualization, Regression Analysis, Using LLM's for Sentiment Analysis and Data Parsing. 
  
 
 ![rstudioide](https://img.shields.io/badge/RStudio-000000?style=for-the-badge&logo=rstudioide&logoColor=#75AADB)
