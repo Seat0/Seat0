@@ -22,7 +22,7 @@ I have a Bachelor's degree in Economics and minor in Data Science from the Unive
 <h3 align="center">Valorant Championship Prediction Model</h3>
 
   <p align="center">
-    Here is my independent project prediciting Esports tournament outcomes in the video game Valorant. 
+    Here is my independent project prediciting Esports tournament outcomes in the popular videogame Valorant. 
     <br />
     <a href="https://github.com/Seat0/Valorant-Regression-Model"><strong>Link to Repository »</strong></a>
     <br />
